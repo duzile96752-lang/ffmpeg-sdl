@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="ffmpeg+sdl/ffmpeg+sdl.vcxproj" Id="8c5112e9-9250-434e-bcd5-80084dfa7290" />
+</Solution>
